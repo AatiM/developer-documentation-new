@@ -23,3 +23,5 @@ Work in progress
 ================
 
 This is a work in progress. More to come soon! In the meantime, go to https://developer.mautic.org to view the developer documentation.
+
+## The new version of the REST API is coming soon ...
